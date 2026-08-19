@@ -22,6 +22,8 @@ used as provided.
 - Tested with KDE Plasma X11 and Wayland on Mageia 10
 - Mouse and keyboard input tested with Android TV / Kodi
 
+![](https://github.com/AKotov-dev/scrcpy-desktop/blob/main/Screenshot1.png)
+
 ## How it works
 
 `scrcpy-desktop` does not configure or discover Android devices.
