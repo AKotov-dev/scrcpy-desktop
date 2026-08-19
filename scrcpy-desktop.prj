@@ -1,0 +1,66 @@
+[NAME]
+name=scrcpy-desktop
+
+[VERSION]
+version=4.1
+
+[RELEASE]
+release=0.mrx10
+
+[GROUP]
+group=Accessibility
+
+[DESCRIPTION]
+0=Android device desktop integration based on scrcpy
+1=---
+2=More information: /usr/share/doc/package_name/repack.txt
+
+[MAINTAINER]
+maintainer=Alex Kotov
+
+[VENDOR]
+vendor=alex_q_2000 (C) 2026
+
+[SUMMARY]
+summary=Android device desktop integration based on scrcpy
+
+[URLCOPY]
+urlcopy=https://github.com/AKotov-dev/scrcpy-desktop
+
+[LICENSE]
+license=Apache
+
+[DEPS]
+deps=
+
+[META]
+meta=0
+
+[NOARCH]
+noarch=0
+
+[DEB]
+deb=1
+
+[FILES]
+0=/usr/share/pixmaps/scrcpy.png
+1=/usr/share/applications/scrcpy.desktop
+2=/opt/scrcpy/
+3=/usr/share/doc/scrcpy-desktop/
+
+[URL32]
+url32=https://github.com/genymobile/scrcpy
+
+[PROGRAMNAME]
+programname=scrcpy-desktop
+
+[DEVTOOL]
+devtool=Shell
+
+[TOOLVERSION]
+toolversion=unknown
+
+[INFO]
+0=v4.1
+1=+ RPM packages: Mageia-10/Fedora
+2=+ DEB packages: Debian/Ubuntu
