@@ -2,7 +2,7 @@
 name=scrcpy-desktop
 
 [VERSION]
-version=4.1
+version=5.0
 
 [RELEASE]
 release=0.mrx10
@@ -61,6 +61,6 @@ devtool=Shell
 toolversion=unknown
 
 [INFO]
-0=v4.1
+0=v5.0
 1=+ RPM packages: Mageia-10/Fedora
 2=+ DEB packages: Debian/Ubuntu
